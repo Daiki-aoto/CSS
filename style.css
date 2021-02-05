@@ -1,0 +1,23 @@
+body {
+  margin: 0 auto;
+  background: #000;
+}
+
+html {
+  color: #fff;
+  text-align: center;
+}
+
+p {
+   font-size: 12px;
+}
+
+.slider {
+  width: 80%;
+  margin: 30px auto;
+}
+
+img {
+  width: 80%;
+  margin: 0 auto;
+}
